@@ -1,0 +1,47 @@
+header {
+
+    justify-content: space-between;
+}
+.texto {
+    font-size: medium;
+    font-size: 20px;
+    font-weight: bolder;
+
+}
+.texto1 {
+    font-size: 12px}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+nav a {
+    text-decoration: none;
+}
+.row {
+    display: block;
+}
+img {
+    height: 10vh;
+}
+.li {
+    text-decoration: none;
+    color: rgb(19, 19, 91);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.uno {
+    height: 90px;
+    width: 250px;
+}
+.dos {
+    height: 90px;
+    width: 230px;
+}
+.tres {
+    height: 90px;
+    width: 240px;
+}
+.cuatro {
+    height: 90px;
+    width: 230px;
+}
